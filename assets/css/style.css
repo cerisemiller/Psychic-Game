@@ -1,0 +1,16 @@
+body {
+	background-image: url("../images/crystalball.jpg");
+	background-size: cover;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 960px;
+}
+h1 {
+	color: #ffffff;
+	font-size: 45px;
+}
+
+p {
+	font-size: 30px;
+	color: #ffffff;
+}
